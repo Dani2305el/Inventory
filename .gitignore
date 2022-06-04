@@ -1,0 +1,14 @@
+
+.vs/
+
+Inventory/obj
+Inventory/bin
+
+Business/bin
+Business/obj
+
+DataAcces/obj
+DataAcces/bin
+
+Entities/bin
+Entities/obj
